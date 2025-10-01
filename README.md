@@ -5,7 +5,7 @@
 
 ## 简介
 
-项目名字 [Fornicarás] 取自动漫 [BLEACH] 中的第八十刃 [萨尔阿波罗·格兰兹] 的斩魄刀。
+项目名字 [Fornicarás] 取自动漫 [BLEACH] 中的第八十刃萨尔阿波罗的斩魄刀。
 
 基于libcurl库和原生WinAPI两种方式远程加载shellcode的加载器/注入器模板，shellcode本体和远程加载地址采用自定义RC4+BASE64加密。
 
